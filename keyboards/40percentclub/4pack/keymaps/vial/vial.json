@@ -1,0 +1,19 @@
+{
+    "lighting": "vialrgb",
+    "matrix": {
+        "rows": 1,
+        "cols": 4
+    },
+    "layouts": {
+        "keymap":
+        [
+            [
+              "0,3",
+              "0,2",
+              "0,1",
+              "0,0"
+            ]
+          ]
+    }
+}
+
